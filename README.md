@@ -3,6 +3,8 @@
 **Status:** Scaffold built — runnable · **Roadmap stage:** Advanced (Project P4)
 Part of the [ML / AI Engineer Roadmap](https://github.com/NanaAkwasiAbayieBoateng/ai-ml-engineer-roadmap) — full plan in the roadmap's [P4 deep-dive](https://github.com/NanaAkwasiAbayieBoateng/ai-ml-engineer-roadmap/blob/main/projects/p4-llm-agent.md).
 
+📖 New here? Read [BLOG_POST.md](BLOG_POST.md) — a file-by-file walkthrough of the whole project.
+
 An agent that investigates a fraud alert — gathers evidence with real tools and drafts a case summary for human approval. Bounded job, done safely, with receipts.
 
 ## Plan
